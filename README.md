@@ -82,6 +82,30 @@ department does not know which assets would be lost. The likelihood of a lost as
 fines from governing bodies is high because Botium Toys does not have all of the
 necessary controls in place and is not adhering to required regulations and standards
 related to keeping customer data private.
-<br /> <br/> <br/>
+<br /> <br/> 
 
 
+<h2>Controls assessment</h2>
+
+<p>
+ <img src="https://i.imgur.com/jEA93XR.png" alt="chart1"/>
+ <img src="https://i.imgur.com/TmZNkTN.png" alt="chart2"/>
+ <img src="https://i.imgur.com/AXkQFRY.png" alt="chart3"/>
+</p>
+<br />
+
+<h2>Compliance checklist</h2>
+
+<p>
+ <img src="https://i.imgur.com/CviwASU.png" alt="list1"/>
+ <img src="https://i.imgur.com/eLpyyhn.png" alt="list"2/>
+</p>
+<br />
+
+<h2>Communication with stakeholders</h2>
+
+<p>
+ <img src="https://i.imgur.com/GIb1qfw.png" alt="communicaiton to stakeholder"/>
+ <img src="https://i.imgur.com/HoAn1XI.png" alt="communicaiton to stakeholder"/>
+ <img src="https://i.imgur.com/D1hSqFp.png" alt="communicaiton to stakeholder"/>
+</p>
