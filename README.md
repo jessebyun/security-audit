@@ -105,7 +105,7 @@ related to keeping customer data private.
 <h2>Communication with stakeholders</h2>
 
 <p>
- <img src="https://i.imgur.com/GIb1qfw.png" alt="communicaiton to stakeholder"/>
- <img src="https://i.imgur.com/HoAn1XI.png" alt="communicaiton to stakeholder"/>
- <img src="https://i.imgur.com/D1hSqFp.png" alt="communicaiton to stakeholder"/>
+ <img src="https://i.imgur.com/i1Uqt2X.png" alt="communicaiton to stakeholder"/>
+ <img src="https://i.imgur.com/t8RLqpe.png" alt="communicaiton to stakeholder"/>
+ <img src="https://i.imgur.com/RooO5cj.png" alt="communicaiton to stakeholder"/>
 </p>
