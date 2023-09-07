@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/JL5aCaJ.png" alt="cyber logo"/>
+<img src="https://i.imgur.com/9B9tECu.png" alt="cyber logo"/>
 </p>
 
 <h1>Conduct a Security Audit</h1>
